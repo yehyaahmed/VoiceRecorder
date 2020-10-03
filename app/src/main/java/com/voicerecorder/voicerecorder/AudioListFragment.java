@@ -12,9 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 import com.google.android.material.bottomsheet.BottomSheetBehavior;
-
 import java.io.File;
 
 public class AudioListFragment extends Fragment {
